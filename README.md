@@ -65,8 +65,8 @@
 ## Collaborators
 | Name            | GitHub                                         | 
 | --------------- | ---------------------------------------------- | 
-| ** Foo Qi Kai **               | [@](https://github.com/) |
-| ** Safaraz Bin Sarazli **            | [@](https://github.com/)       |
-| ** Muhammad Azfar Bin Adam **            | [@](https://github.com/)         |
-| ** Chua Chiang Sheng, Andy **   | [@ehandywhyy](https://github.com/ehandywhyy)  |
+| ** Foo Qi Kai **                  | [@qiikaii](https://github.com/qiikaii) |
+| ** Safaraz Bin Sarazli **         | [@](https://github.com/)       |
+| ** Muhammad Azfar Bin Adam **     | [@HunterAz](https://github.com/HunterAz)         |
+| ** Chua Chiang Sheng, Andy **     | [@ehandywhyy](https://github.com/ehandywhyy)  |
 | ** Gwee Soon Chai, Christopher ** | [@](https://github.com/)     |
