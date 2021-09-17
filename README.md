@@ -66,7 +66,7 @@
 | Name            | GitHub                                         | 
 | --------------- | ---------------------------------------------- | 
 | ** Foo Qi Kai **                  | [@qiikaii](https://github.com/qiikaii) |
-| ** Safaraz Bin Sarazli **         | [@](https://github.com/)         |
+| ** Safaraz Bin Sarazli **         | [@chopstigs](https://github.com/chopstigs) |
 | ** Muhammad Azfar Bin Adam **     | [@HunterAz](https://github.com/HunterAz) |
 | ** Chua Chiang Sheng, Andy **     | [@ehandywhyy](https://github.com/ehandywhyy) |
 | ** Gwee Soon Chai, Christopher ** | [@ManOCoolture](https://github.com/ManOCoolture) |
