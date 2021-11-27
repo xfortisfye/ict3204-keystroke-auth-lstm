@@ -31,30 +31,31 @@
 
 > If you are using vscode, relaunch it
 
-#### Setting up GNU Make
-1. [Install](https://sourceforge.net/projects/gnuwin32/files/make/3.81/make-3.81.exe/download?use_mirror=nchc&download=) Make for Windows
-2. Set up environment PATH, if not you will not be unable to run `make`
-   1. Right-click on 'This PC' > Properties > Advance System Settings > Environment Variables
-   2. Under System Variable, Select PATH
-   3. Click on Edit, enter Make location. Usually: `C:\Program Files (x86)\GnuWin32\bin`
+#### Installing Dependencies
+1. Install virtualenv
+```bash
+> pip install virtualenv
+```
+2. Start virtualenv
+i. Windows
+```powershell
+>.\env\Scripts\activate
+```
+ii. Linux
+```bash
+> source env/bin/activate
+```
+3. Install pip requirements
+```bash
+> cd \Path\to\ict3204-secure-analytics
+> pip install -r requirements.txt
+```
 
 ### Linux (Debian)
 #### Cloning GitHub Repository
 ```bash
 > sudo apt install git -y
 > git clone https://github.com/ehandywhyy/ict3204-secure-analytics
-```
-
-## Running the Project
-### Option 1: Using GNU Make
-1. To run the program
-```bash
-> cd \Path\to\software-engineering-project
-> make
-```
-2. To clean compiled files (.pyc)
-```bash
-> make clean
 ```
 
 ## Milestones
