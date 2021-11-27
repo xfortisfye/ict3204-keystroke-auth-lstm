@@ -36,12 +36,7 @@
 ```bash
 > pip install virtualenv
 ```
-2. Start virtualenv
-i. Windows
-```powershell
->.\env\Scripts\activate
-```
-ii. Linux
+2. Start virtualenv (Linux)
 ```bash
 > source env/bin/activate
 ```
@@ -50,7 +45,6 @@ ii. Linux
 > cd \Path\to\ict3204-secure-analytics
 > pip install -r requirements.txt
 ```
-
 ### Linux (Debian)
 #### Cloning GitHub Repository
 ```bash
