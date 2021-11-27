@@ -37,13 +37,13 @@
 > pip install virtualenv
 ```
 2. Start virtualenv
-Windows
-```bash
-.\env\Scripts\activate
+i. Windows
+```powershell
+>.\env\Scripts\activate
 ```
-Linux
+ii. Linux
 ```bash
-source env/bin/activate
+> source env/bin/activate
 ```
 3. Install pip requirements
 ```bash
