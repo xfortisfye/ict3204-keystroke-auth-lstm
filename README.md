@@ -52,6 +52,12 @@
 > git clone https://github.com/ehandywhyy/ict3204-secure-analytics
 ```
 
+### Generating dataset
+1. Special thanks to the following git
+```bash
+> git clone https://github.com/miguelhp89/Keystroke_Dynamics_Gen
+```
+
 ## Milestones
 - [x] Project Outline
 - [ ] Prototyping
