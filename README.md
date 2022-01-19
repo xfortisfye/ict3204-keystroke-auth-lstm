@@ -1,25 +1,11 @@
-# ict3204-secure-analytics
-
-## Table of Contents <!-- omit in toc -->
-- [Setting Up](#setting-up)
-  - [Windows](#windows)
-    - [Cloning GitHub Repository (using vscode)](#cloning-github-repository-using-vscode)
-    - [Installing Python](#installing-python)
-    - [Installing Dependencies](#installing-dependencies)
-    - [Setting up GNU Make](#setting-up-gnu-make)
-  - [Linux (Debian)](#linux-debian)
-    - [Cloning GitHub Repository](#cloning-github-repository)
-- [Running the Project](#running-the-project)
-  - [Option 1: Using GNU Make](#option-1-using-gnu-make)
-- [Milestones](#milestones)
-- [Collaborators](#collaborators)
+# ict3204-keystroke-auth-lstm
 
 ## Setting Up
 ### Windows
 #### Cloning GitHub Repository (using [vscode](https://code.visualstudio.com/))
 1. Press: Ctrl + Shift + P
 2. Type: 'Clone' and select 'Git: Clone'
-3. Paste `https://github.com/ehandywhyy/ict3204-secure-analytics`
+3. Paste `https://github.com/xfortisfye/ict3204-keystroke-auth-lstm`
 4. Enter your GitHub credentials & select a location to save the repository
 
 #### Installing Python
@@ -42,14 +28,14 @@
 ```
 3. Install pip requirements
 ```bash
-> cd \Path\to\ict3204-secure-analytics
+> cd \Path\to\ict3204-keystroke-auth-lstm
 > pip install -r requirements.txt
 ```
 ### Linux (Debian)
 #### Cloning GitHub Repository
 ```bash
 > sudo apt install git -y
-> git clone https://github.com/ehandywhyy/ict3204-secure-analytics
+> git clone https://github.com/xfortisfye/ict3204-keystroke-auth-lstm
 ```
 
 ### Generating dataset
@@ -69,5 +55,5 @@
 | ** Foo Qi Kai **                  | [@qiikaii](https://github.com/qiikaii) |
 | ** Safaraz Bin Sarazli **         | [@chopstigs](https://github.com/chopstigs) |
 | ** Muhammad Azfar Bin Adam **     | [@HunterAz](https://github.com/HunterAz) |
-| ** Chua Chiang Sheng, Andy **     | [@ehandywhyy](https://github.com/ehandywhyy) |
+| ** Chua Chiang Sheng, Andy **     | [@xfortisfye](https://github.com/xfortisfye) |
 | ** Gwee Soon Chai, Christopher ** | [@ManOCoolture](https://github.com/ManOCoolture) |
