@@ -2,20 +2,9 @@
 
 ## Setting Up
 ### Windows
-#### Cloning GitHub Repository (using [vscode](https://code.visualstudio.com/))
-1. Press: Ctrl + Shift + P
-2. Type: 'Clone' and select 'Git: Clone'
-3. Paste `https://github.com/xfortisfye/ict3204-keystroke-auth-lstm`
-4. Enter your GitHub credentials & select a location to save the repository
+1. Clone Github Repo [using vscode](https://github.com/xfortisfye/303-see-other/blob/main/github-setup.md#using-vscode)
+2. Install [Python 3.9.7](https://github.com/xfortisfye/303-see-other/blob/main/coding-language.md#python)
 
-#### Installing Python
-1. [Install](https://www.python.org/ftp/python/3.8.5/python-3.8.5-amd64.exe) python
-2. Set up environment PATH, if not you will not be unable to run `py`/`python` 
-    1. Right-click on 'This PC' > Properties > Advance System Settings > Environment Variables
-    2. Under System Variable, Select PATH
-    3. Click on Edit, enter location. Usually: `C:\Python38\`
-
-> If you are using vscode, relaunch it
 
 #### Installing Dependencies
 1. Install virtualenv
@@ -26,17 +15,11 @@
 ```bash
 > source env/bin/activate
 ```
-3. Install pip requirements
-```bash
-> cd \Path\to\ict3204-keystroke-auth-lstm
-> pip install -r requirements.txt
-```
+3. Install [pip requirements](https://github.com/xfortisfye/303-see-other/blob/main/dependencies.md#installing-pip-requirements)
+
 ### Linux (Debian)
-#### Cloning GitHub Repository
-```bash
-> sudo apt install git -y
-> git clone https://github.com/xfortisfye/ict3204-keystroke-auth-lstm
-```
+1. Cloning GitHub Repository ([Linux](https://github.com/xfortisfye/303-see-other/blob/main/github-setup.md#linux))
+
 
 ### Generating dataset
 1. Special thanks to the following git
