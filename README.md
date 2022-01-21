@@ -5,7 +5,6 @@
 1. Clone Github Repo [using vscode](https://github.com/xfortisfye/303-see-other/blob/main/github-setup.md#using-vscode)
 2. Install [Python 3.9.7](https://github.com/xfortisfye/303-see-other/blob/main/coding-language.md#python)
 
-
 #### Installing Dependencies
 1. Install virtualenv
 ```bash
