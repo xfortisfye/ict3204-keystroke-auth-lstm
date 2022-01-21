@@ -19,7 +19,6 @@
 ### Linux (Debian)
 1. Cloning GitHub Repository ([Linux](https://github.com/xfortisfye/303-see-other/blob/main/github-setup.md#linux))
 
-
 ### Generating dataset
 1. Special thanks to the following git
 ```bash
